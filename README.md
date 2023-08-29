@@ -23,7 +23,7 @@ Clone this repository to your local machine using:
 
    ```sh
    git clone https://github.com/andidprastyo/computer-vision.git
-
+   ```
 ## Topics Covered
 
 The course covers a range of topics, including:
