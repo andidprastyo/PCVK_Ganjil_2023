@@ -24,3 +24,36 @@ Clone this repository to your local machine using:
    ```sh
    git clone https://github.com/your-username/computer-vision-course.git
 
+## Topics Covered
+
+The course covers a range of topics, including:
+
+- Image preprocessing and enhancement
+- Object detection and tracking
+- Image classification using neural networks
+- Image segmentation
+- Feature extraction and matching
+- Deep learning for computer vision
+- Applications in robotics, healthcare, and more
+
+## Prerequisites
+
+- Basic programming knowledge (Python preferred)
+- Understanding of linear algebra and calculus
+- Familiarity with basic image processing concepts (recommended)
+
+## Resources
+
+- Lecture slides and notes (available in the 'lectures' directory)
+- Code examples and assignments (inside respective directories)
+- Additional reading materials and research papers (referenced in the course content)
+
+## Contributing
+
+Contributions to this repository are welcome! If you find errors or want to add more resources, feel free to create a pull request. Please follow the guidelines mentioned in CONTRIBUTING.md.
+
+## License
+
+This repository is licensed under the MIT License, which means you are free to use, modify, and distribute the code and materials for personal and educational purposes.
+
+
