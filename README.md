@@ -22,7 +22,7 @@ To get started with the course materials, you can:
 Clone this repository to your local machine using:
 
    ```sh
-   git clone https://github.com/your-username/computer-vision-course.git
+   git clone https://github.com/andidprastyo/computer-vision.git
 
 ## Topics Covered
 
