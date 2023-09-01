@@ -6,9 +6,6 @@ Welcome to the Computer Vision Course repository! This repository contains mater
 
 - [Course Overview](#course-overview)
 - [Getting Started](#getting-started)
-- [Topics Covered](#topics-covered)
-- [Prerequisites](#prerequisites)
-- [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
 
