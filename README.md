@@ -24,29 +24,6 @@ Clone this repository to your local machine using:
    ```sh
    git clone https://github.com/andidprastyo/computer-vision.git
    ```
-## Topics Covered
-
-The course covers a range of topics, including:
-
-- Image preprocessing and enhancement
-- Object detection and tracking
-- Image classification using neural networks
-- Image segmentation
-- Feature extraction and matching
-- Deep learning for computer vision
-- Applications in robotics, healthcare, and more
-
-## Prerequisites
-
-- Basic programming knowledge (Python preferred)
-- Understanding of linear algebra and calculus
-- Familiarity with basic image processing concepts (recommended)
-
-## Resources
-
-- Lecture slides and notes (available in the 'lectures' directory)
-- Code examples and assignments (inside respective directories)
-- Additional reading materials and research papers (referenced in the course content)
 
 ## Contributing
 
