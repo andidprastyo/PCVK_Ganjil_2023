@@ -5,22 +5,12 @@ Welcome to the Computer Vision Course repository! This repository contains mater
 ## Table of Contents
 
 - [Course Overview](#course-overview)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Course Overview
 
 This course provides an introduction to the field of computer vision, which involves enabling computers to interpret visual information from the world. We'll cover fundamental concepts, image processing techniques, object detection, image classification, and more.
-
-## Getting Started
-
-To get started with the course materials, you can:
-Clone this repository to your local machine using:
-
-   ```sh
-   git clone https://github.com/andidprastyo/computer-vision.git
-   ```
 
 ## Contributing
 
